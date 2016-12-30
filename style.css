@@ -28,10 +28,11 @@ time, mark, audio, video {
 }
 
 .logo {
-  font-family: OneStarry, sans-serif;
+  font-family: sans-serif !important;
   font-size: 35px;
-  letter-spacing: 0.2em !important;
+  letter-spacing: 0.02em !important;
   padding-left: 1% !important;
+  font-style: italic;
 }
 
 .intro{
