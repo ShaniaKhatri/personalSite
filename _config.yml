@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Plugins
+# plugins: [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Shania Khatri
+tagline:          ''
+description:      'Research scientist at the University of Pittsburgh'
+url:              https://shania.khatri.io
+baseurl:          /
+
+author:
+  name:           'Shania Khatri'
+  url:            https://twitter.com/shania__k
+
+# paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ShaniaKhatri/personalSite
