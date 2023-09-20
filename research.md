@@ -9,7 +9,7 @@ MRSA accounts for over 100,000 bloodstream infections annually worldwide and ove
 I first began working in 2021 as a research scientist at University of Pittsburgh to understand if multi-drug resistant MRSA (methicillin-resistant Staphylococcus aureus) could develop the necessary genetic mutations to defeat the only antibiotic effective against MRSA, vancomycin, making it potentially invincible. We’re currently in the process of successfully evolving vancomycin resistance in MRSA. Then, through careful study in the lab, we can use these evolved superbugs to quantify the level of threat that vancomycin resistance poses to vulnerable patients in the clinic.
 
 <figure>
-    <img src="{{ site.baseurl }}public/images/poster.jpg" alt="poster" width="500px"/>
+    <img src="{{ site.url }}/public/images/poster.jpg" alt="poster" width="500px"/>
     <figcaption><i style='font-size: 18px'>My work at the PRoBE lab on Bayesian modeling of breast cancer genes.</i></figcaption>
 </figure>
 
