@@ -8,7 +8,7 @@ weight: 4
 <img src="{{ site.url }}/public/images/zoo.jpg" alt="zoo"/>
 </div>
 
-I’m an Emergency Medical Technician (EMT), certified to 2+ years, specializing in pre-hospital care, patient management, and ambulance operation. I work at Foxwall Emergency Medical Services in Pittsburgh, PA on the emergency and non-emergency transport line.
+I’m an Emergency Medical Technician (EMT), certified for 2+ years, specializing in pre-hospital care, patient management, and ambulance operation. I work at Foxwall Emergency Medical Services in Pittsburgh, PA on the emergency and non-emergency transport line.
 
 I spend a lot of time as a patient care volunteer at St. Margaret’s Hospital in Pittsburgh, PA. I specialize in two departments, the Emergency Department and the outpatient ward of the Hillman Cancer Center. I restock supplies, sit with patients without a support person, and aid staff and patients in a variety of ways.
 
