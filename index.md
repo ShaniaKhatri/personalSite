@@ -5,7 +5,7 @@ weight: 1
 ---
 
 <div style="float: left; padding-right: 5%; width: 45%">
-<img src="{{ site.baseurl }}public/images/headshot.png" alt="headshot"/>
+<img src="{{ site.url }}/public/images/headshot.jpg" alt="headshot"/>
 </div>
 
 I am currently a research scientist at the University of Pittsburgh. I have a B.S. in Biology from Georgia Institute of Technology and am a 2018 Stamps President’s Scholar.
